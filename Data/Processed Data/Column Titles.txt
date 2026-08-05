@@ -1,5 +1,5 @@
 Data:
 Stride, Warning, Direction, X Displacement , Y Displacement, Magnitude, Participant 
-Stride = 0(Toe-Off) / 1(mid-stance)
+Stride = 1(Toe-Off) / 0(mid-stance)
 Warning = 0(Off) / 1(On)
 Directions = 1(Right) / 2(Front) / 3(Left) / (4Back)
